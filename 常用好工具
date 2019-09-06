@@ -1,0 +1,4 @@
+避免会话中途中断：
+screen -S qinxi  生成一个会话
+Ctrl+A D 退出
+screen -r qinxi  回来
